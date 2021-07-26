@@ -15,15 +15,12 @@ const MenuItemStyles = styled.div`
   p {
     margin: 0;
   }
-
   button {
     font-size: 1.5rem;
   }
-
   button + button {
     margin-left: 1rem;
   }
-
   .remove {
     background: none;
     color: var(--red);
